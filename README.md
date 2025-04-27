@@ -15,3 +15,15 @@ It uses JSON Server as a mock backend API and is started locally using `npm star
 
 ---
 
+
+---
+
+## 🚀 How to Run the App
+
+1. **Install dependencies**:
+   ```bash
+   npm install
+start server:
+npx json-server --watch db.json --port 3000
+start app:
+npm start
