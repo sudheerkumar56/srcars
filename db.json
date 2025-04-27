@@ -1,0 +1,73 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "sudheer",
+      "email": "s@gmail.com",
+      "phone": "6309530397",
+      "password": "123456"
+    },
+    {
+      "id": "9c30",
+      "name": "sudheer",
+      "email": "baa@gmail.com",
+      "password": "qwerty"
+    },
+    {
+      "id": "0c67",
+      "name": "baa",
+      "email": "baa@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "9bbf",
+      "name": "baa",
+      "email": "baa@gmail.com",
+      "password": "1234567"
+    },
+    {
+      "id": "9e4b",
+      "name": "bhai",
+      "email": "bhai@gmail.com",
+      "password": "bhai123"
+    },
+    {
+      "id": "1d45",
+      "name": "h",
+      "email": "u@gmail.com",
+      "password": "y"
+    },
+    {
+      "id": "6183",
+      "name": "k",
+      "email": "rkresta@gmail.com",
+      "password": "6"
+    },
+    {
+      "id": "f034",
+      "name": "haa",
+      "email": "s@gmail.com",
+      "password": "1"
+    },
+    {
+      "id": "9b4f",
+      "name": "g",
+      "email": "gh@gmail.com",
+      "password": "gh"
+    },
+    {
+      "id": "f968",
+      "name": "sudheer",
+      "email": "20r21a05j3@mlrinstitutions.ac.in",
+      "password": "qwerty56"
+    }
+  ],
+  "bookings": [
+    {
+      "id": "1",
+      "userId": 1,
+      "status": "active",
+      "car": "Sedan"
+    }
+  ]
+}
